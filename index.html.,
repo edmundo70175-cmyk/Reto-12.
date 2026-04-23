@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Pensamiento Crítico</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+}
+
+header {
+  background: #1877f2;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 10px;
+}
+
+.post {
+  background: #1877f2; /* azul */
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+
+.post h2 {
+  color: white;
+}
+
+.post p {
+  color: #e4e6eb;
+}
+
+.extra {
+  color: #d0d0d0;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+  color: gray;
+  font-size: 12px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+ Pensamiento Crítico
+</header>
+
+<div class="container">
+
+<div class="post">
+<h2> Origen del pensamiento</h2>
+<p>Las ideas no surgen de manera espontánea. Se construyen a partir de la familia, la educación, la cultura y las experiencias personales.</p>
+<p class="extra">Desde pequeños aprendemos lo que es correcto o incorrecto, y estas bases influyen en cómo interpretamos la realidad. Con el tiempo, nuestras vivencias refuerzan o cambian esas ideas.</p>
+<p class="extra">Ejemplo: Una persona que crece en un ambiente donde se valora la educación probablemente desarrollará interés por aprender.</p>
+</div>
+
+<div class="post">
+<h2> Pensar rápido vs pensar bien</h2>
+<p>El pensamiento rápido permite tomar decisiones inmediatas, pero no siempre es el más acertado.</p>
+<p class="extra">El pensamiento reflexivo analiza consecuencias, compara opciones y reduce errores. Saber cuándo usar cada uno es clave.</p>
+<p class="extra">Ejemplo: Elegir qué comer puede ser rápido, pero elegir una carrera requiere reflexión.</p>
+</div>
+
+<div class="post">
+<h2> Sesgos cognitivos</h2>
+<p>Son atajos mentales que utiliza el cerebro para ahorrar tiempo, pero pueden provocar errores.</p>
+<p class="extra">Influyen en cómo interpretamos la información y pueden hacernos creer que algo es verdadero sin evidencia suficiente.</p>
+<p class="extra">Ejemplo: Creer una noticia solo porque confirma lo que ya pensabas.</p>
+</div>
+
+<div class="post">
+<h2> Pensamiento crítico</h2>
+<p>Es la capacidad de analizar información, cuestionarla y formar opiniones fundamentadas.</p>
+<p class="extra">Permite evitar manipulaciones, tomar decisiones informadas y comprender mejor el entorno.</p>
+<p class="extra">Ejemplo: Investigar antes de compartir información en redes sociales.</p>
+</div>
+
+<div class="post">
+<h2> Falacias y manipulación</h2>
+<p>Algunas personas usan argumentos engañosos para convencer, aunque no tengan razón.</p>
+<p class="extra">Las falacias pueden apelar a emociones, autoridad o generalizaciones incorrectas.</p>
+<p class="extra">Ejemplo: “Todos lo hacen, así que está bien”.</p>
+</div>
+
+<div class="post">
+<h2> Comunicación clara</h2>
+<p>Una buena idea puede perderse si no se expresa correctamente.</p>
+<p class="extra">Hablar con claridad, orden y seguridad facilita que otros comprendan y valoren lo que dices.</p>
+<p class="extra">Ejemplo: Explicar un proyecto con pasos claros y razones concretas.</p>
+</div>
+
+<div class="post">
+<h2> Desinformación</h2>
+<p>Internet facilita el acceso a información, pero también a contenido falso.</p>
+<p class="extra">Es importante verificar fuentes y no confiar solo en titulares llamativos o influencers.</p>
+<p class="extra">Ejemplo: Noticias falsas que se vuelven virales en redes.</p>
+</div>
+
+<div class="post">
+<h2> Uso del lenguaje</h2>
+<p>Hablar sin comprender o sin pensar puede generar errores o conflictos.</p>
+<p class="extra">También es importante saber cuándo y cómo expresar una idea para evitar incomodidades.</p>
+<p class="extra">Ejemplo: Opinar sin conocer el tema puede llevar a malentendidos.</p>
+</div>
+
+<div class="post">
+<h2> Toma de decisiones</h2>
+<p>Cada decisión tiene consecuencias, por lo que es importante analizarlas antes de actuar.</p>
+<p class="extra">El pensamiento crítico ayuda a elegir opciones más adecuadas y responsables.</p>
+<p class="extra">Ejemplo: Evaluar ventajas y desventajas antes de elegir una carrera.</p>
+</div>
+
+<div class="post">
+<h2> Pensar antes de actuar</h2>
+<p>Actuar impulsivamente puede generar errores evitables.</p>
+<p class="extra">Tomarse un momento para reflexionar permite mejores resultados.</p>
+<p class="extra">Ejemplo: Responder con calma en lugar de reaccionar con enojo.</p>
+</div>
+
+<div class="post">
+<h2> Ética</h2>
+<p>Pensar bien no es suficiente si no se actúa correctamente.</p>
+<p class="extra">La ética implica tomar decisiones justas, responsables y conscientes del impacto en los demás.</p>
+<p class="extra">Ejemplo: Decir la verdad aunque sea difícil.</p>
+</div>
+
+<div class="post">
+<h2> Ser pensador crítico</h2>
+<p>No significa ser negativo, sino analizar, cuestionar y buscar la verdad.</p>
+<p class="extra">Implica tener criterio propio y no dejarse influenciar fácilmente.</p>
+<p class="extra">Ejemplo: Investigar antes de creer algo solo porque es popular.</p>
+</div>
+
+</div>
+
+<div class="footer">
+Proyecto escolar • Pensamiento Crítico
+</div>
+
+</body>
+</html>
